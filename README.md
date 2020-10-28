@@ -14,6 +14,6 @@ im sorry hurricane
 
 # Requirements
 
-BlueRain Mod - https://github.com/sirk1x/bluerain 
+BlueRain Mod - https://github.com/sirk1x/RedRain
 
 SharpDX 2.6.3.0 - https://www.nuget.org/packages/SharpDX/2.6.3
