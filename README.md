@@ -12,7 +12,8 @@ update the offsets yourself.
 im sorry hurricane
 
 
-requirements
+#requirements
 
 https://github.com/sirk1x/bluerain 
+
 SharpDX 2.6.3.0
