@@ -10,3 +10,9 @@ there is a null access violation somewhere that may require a copy of a list ins
 update the offsets yourself.
 
 im sorry hurricane
+
+
+requirements
+
+https://github.com/sirk1x/bluerain 
+SharpDX 2.6.3.0
