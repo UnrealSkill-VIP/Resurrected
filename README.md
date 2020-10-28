@@ -12,8 +12,8 @@ update the offsets yourself.
 im sorry hurricane
 
 
-#requirements
+# Requirements
 
-https://github.com/sirk1x/bluerain 
+BlueRain Mod - https://github.com/sirk1x/bluerain 
 
-SharpDX 2.6.3.0
+SharpDX 2.6.3.0 - https://www.nuget.org/packages/SharpDX/2.6.3
