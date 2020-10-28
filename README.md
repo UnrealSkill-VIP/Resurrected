@@ -1,5 +1,5 @@
 # Resurrected
-Dirrrrty, yet powerful, Counter Strike Global Offensive external hack
+Dirrrrty, yet powerful, Counter Strike Global Offensive external hack (Created 2016.06.04)
 
 Aimbot, ESP, Glow, Recoil Control with menu and config system (json) in place
 
